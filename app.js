@@ -131,5 +131,5 @@ if(click===todayDate){
 })
 
 app.listen(process.env.PORT || 3000, function(){
-  console.log("Server started.");
+  console.log("Server started .");
 });
